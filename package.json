@@ -20,6 +20,7 @@
     "@eslint/js": "^9.19.0",
     "@rsbuild/core": "^1.2.4",
     "@rsbuild/plugin-react": "^1.1.0",
+    "@types/node": "^22.13.4",
     "@types/react": "^19.0.8",
     "@types/react-dom": "^19.0.3",
     "eslint": "^9.19.0",
@@ -28,6 +29,7 @@
     "globals": "^15.14.0",
     "prettier": "^3.4.2",
     "typescript": "^5.7.3",
-    "typescript-eslint": "^8.22.0"
+    "typescript-eslint": "^8.22.0",
+    "workbox-webpack-plugin": "^7.3.0"
   }
 }
